@@ -2,7 +2,7 @@
 
 **Firdavs241/Firdavs241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://t.me/c/2109115890/1264)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]()
 
 
 - 🔭 I’m currently working on ...

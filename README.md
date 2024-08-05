@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi I'm sorry I didn't know 
 
 **Firdavs241/Firdavs241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
